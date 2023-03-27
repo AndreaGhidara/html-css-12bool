@@ -1,0 +1,12 @@
+body [class*='col-'] {
+    border: solid 1px red;
+
+}
+
+.container{
+    background-color: lightblue;
+}
+
+.bg-green{
+    background-color: green;
+}
